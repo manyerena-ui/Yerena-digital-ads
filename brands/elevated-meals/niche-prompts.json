@@ -1,0 +1,211 @@
+{
+  "business": "Elevated Meals",
+  "category": "Chef-Crafted Organic Meal Prep Delivery",
+  "location": "California",
+  "template_source": "niche-templates/meal-prep-delivery.md",
+  "generated_at": "2026-04-15T12:00:00Z",
+  "prompts": [
+    {
+      "template_number": 1,
+      "template_name": "price-per-meal-anchor",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile — warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nHigh-impact price-anchor static ad designed to stop the scroll. Background: warm gold (#C9A84C) with clean geometric sections. Top section (40%): Large, confident display number in dark charcoal (#1A1A1A): \"$14.99/meal\". Subline: \"Less than a Chipotle bowl. 100% Organic.\". Bottom section (60%): beautiful overhead food photography showing 3 prepared meals in sleek containers — grilled grass-fed steak with roasted vegetables, herb-crusted wild-caught salmon with quinoa, and pasture-raised chicken with sweet potato — arranged attractively on a clean marble surface, warm natural lighting. Thin warm gold divider between sections. Bottom strip: Elevated Meals logo + \"First week: 5 meals for $74.99\" + getelevatedmeals.com. Bold, scroll-stopping, value-first. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "$14.99/meal",
+        "subhead": "Less than a Chipotle bowl. 100% Organic.",
+        "cta": "First week: 5 meals for $74.99"
+      },
+      "notes": "N01 — HelloFresh/EveryPlate price-per-meal anchor pattern. Reference images of finished meals recommended.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 2,
+      "template_name": "macro-nutrition-comparison",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile — warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues.\n\nClean nutritional comparison static ad. Split layout on cream (#F5F0E8) background. LEFT SIDE: a fast food meal (burger, fries, soda) with faded/gray treatment. Nutritional callouts in red: \"1,200 cal | 18g protein | 1,800mg sodium | Seed oils ✗\". RIGHT SIDE: a beautiful grilled grass-fed steak with roasted seasonal vegetables and wild rice in a premium container with vibrant, appetizing treatment. Nutritional callouts in warm gold (#C9A84C): \"520 cal | 45g protein | 480mg sodium | Organic ✓\". Center dividing line with \"VS\" badge in dark charcoal. Headline above: \"Same price. Completely different fuel.\". Elevated Meals logo and getelevatedmeals.com bottom center. Data-backed, trust-building, conversion-focused. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Same price. Completely different fuel.",
+        "subhead": "520 cal | 45g protein | 100% Organic",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "N02 — Huel/Factor macro comparison pattern. Best for fitness audiences.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg"
+      ]
+    },
+    {
+      "template_number": 3,
+      "template_name": "overhead-container-spread",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces.\n\nStunning overhead flat-lay food photography ad. Full-frame shot from directly above showing 6 meal containers arranged in a grid pattern on white marble countertop. Each container holds a different colorful meal: herb-crusted wild-caught salmon with asparagus, grass-fed beef stir-fry with bell peppers and broccoli, pasture-raised chicken breast with sweet potato and kale, organic turkey meatballs with zucchini noodles, grilled shrimp with quinoa and avocado, and braised short ribs with roasted root vegetables. Fresh herb garnishes, lemon wedges, and small bowls of spices scattered between containers. Warm, bright natural lighting from above. Very minimal text — small warm gold (#C9A84C) banner at bottom: \"Elevated Meals | Eat Clean. Train Hard. Live Elevated.\" and getelevatedmeals.com. Let the food variety sell itself. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Eat Clean. Train Hard. Live Elevated.",
+        "subhead": "6 chef-crafted organic meals, delivered weekly",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "N03 — Factor/CookUnity overhead container spread. Visual appetite appeal, minimal text.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 4,
+      "template_name": "time-savings-hook",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nConvenience-first static ad targeting busy professionals. Top half: warm lifestyle photo of a fit, busy professional arriving home after a workout, sitting down to a beautiful, ready-to-eat chef-crafted meal, relaxed and smiling, warm evening lighting in a modern California kitchen. Bottom half: clean dark charcoal (#1A1A1A) background with bold typographic treatment. Large display headline in cream (#F5F0E8): \"From Fridge to Fork in 3 Minutes.\". Supporting line in warm gold (#C9A84C): \"Chef-crafted organic meals. Just heat and eat. Zero cooking. Zero cleanup.\". Trust signals row in cream: \"100% Organic · No Seed Oils · Grass-Fed & Wild-Caught\". CTA: \"Order by Thursday → Delivered Sunday\" + getelevatedmeals.com. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "From Fridge to Fork in 3 Minutes.",
+        "subhead": "Chef-crafted organic meals. Just heat and eat.",
+        "cta": "Order by Thursday → Delivered Sunday"
+      },
+      "notes": "N04 — HelloFresh/Blue Apron time savings pattern. Best for busy professionals."
+    },
+    {
+      "template_number": 5,
+      "template_name": "unboxing-delivery-moment",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nExciting delivery-moment static ad. Background: lifestyle photo of hands opening a premium branded meal prep box on a bright kitchen counter, revealing neatly arranged meal containers with colorful organic food visible through clear lids. An insulated delivery bag with the Elevated Meals tree/dumbbell logo sits nearby. Warm, golden California natural light streaming through a window. Genuine excitement and care in the scene. Top overlay text in warm gold (#C9A84C): \"Your week of clean eating just arrived.\". Bottom strip in dark charcoal: \"Elevated Meals\" + \"5 meals starting at $74.99/week\" + getelevatedmeals.com. Authentic, aspirational, shareable. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Your week of clean eating just arrived.",
+        "subhead": "5 meals starting at $74.99/week",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "N05 — Daily Harvest/Factor unboxing moment. First-time buyer conversion.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg"
+      ]
+    },
+    {
+      "template_number": 6,
+      "template_name": "ingredient-transparency",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nClean-label transparency ad. Background: softly blurred overhead photo of a beautifully plated grass-fed steak with roasted seasonal vegetables, warm natural lighting. Centered text block with semi-transparent dark charcoal (#1A1A1A) overlay. Large bold headline in cream (#F5F0E8): \"No Seed Oils. No Preservatives. No Mystery.\". Below: crossed-out ingredient list in faded gray text: \"✗ Seed Oils ✗ Preservatives ✗ Artificial Flavors ✗ Added Sugar ✗ Frozen Food\". Then positive list in warm gold (#C9A84C): \"✓ 100% Organic ✓ Grass-Fed Beef ✓ Wild-Caught Seafood ✓ Cooked in Tallow & Avocado Oil\". Elevated Meals logo and CTA at bottom: \"Eat Clean. Train Hard. Live Elevated.\" + getelevatedmeals.com. Trust-forward, education-first. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "No Seed Oils. No Preservatives. No Mystery.",
+        "subhead": "100% Organic · Grass-Fed · Wild-Caught · Cooked in Tallow",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "N06 — Trifecta clean label pattern. Huge for 'no seed oils' trend audience.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg"
+      ]
+    },
+    {
+      "template_number": 7,
+      "template_name": "discount-offer-first",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nBold, offer-first acquisition ad. Background: dark charcoal (#1A1A1A) with energetic, clean graphic treatment. Massive display text in warm gold (#C9A84C): \"$5 OFF YOUR FIRST ORDER\". Subhead reinforcing the offer in cream (#F5F0E8): \"That's only $14.00/meal for chef-crafted organic fuel\". Small appetizing food photo in bottom corner (20% of frame) showing a beautiful herb-crusted wild-caught salmon with roasted vegetables. Urgency line in cream: \"New members only — order by Thursday\". CTA button: \"GET ELEVATED\" in dark charcoal on warm gold button. Elevated Meals logo top corner in cream. Simple, punchy, impossible to miss. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "$5 OFF YOUR FIRST ORDER",
+        "subhead": "That's only $14.00/meal for chef-crafted organic fuel",
+        "cta": "GET ELEVATED"
+      },
+      "notes": "N07 — EveryPlate/Daily Harvest discount-first pattern. Cold acquisition, price-sensitive."
+    },
+    {
+      "template_number": 8,
+      "template_name": "weekly-menu-carousel-frame",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nChef-quality menu showcase ad (designed as a carousel frame). Background: clean white marble surface with dramatic plating shot. Center: beautiful close-up of pan-seared wild-caught salmon with roasted asparagus, wild rice pilaf, and a lemon herb drizzle plated on a matte black ceramic plate, professional food photography quality, steam rising, vibrant colors of fresh vegetables. Top left: small warm gold (#C9A84C) badge: \"THIS WEEK'S PICK\". Bottom: clean bar in dark charcoal (#1A1A1A) with dish name \"Wild-Caught Herb Salmon\" and macros \"480 cal · 42g protein\" in cream text. Elevated Meals logo bottom right corner in warm gold. Magazine-quality food photography. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "THIS WEEK'S PICK",
+        "subhead": "Wild-Caught Herb Salmon — 480 cal · 42g protein",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "N08 — CookUnity weekly menu carousel frame. Foodie audiences.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 9,
+      "template_name": "price-comparison-stack",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nPrice comparison stack ad. Clean cream (#F5F0E8) background. Three horizontal comparison rows, each showing:\nRow 1: Grass-Fed Steak Bowl — \"Restaurant: $22\" crossed out in red vs. \"Elevated Meals: $14.99\" in warm gold (#C9A84C)\nRow 2: Wild-Caught Salmon Plate — \"Restaurant: $26\" crossed out in red vs. \"Elevated Meals: $14.99\" in warm gold\nRow 3: Organic Chicken + Veggies — \"Takeout: $18\" crossed out in red vs. \"Elevated Meals: $14.99\" in warm gold\nEach row has a small thumbnail photo of the meal on the left. Bottom summary in dark charcoal: \"Save $50+/week vs. eating out\". Fine print in warm gold: \"+ 100% Organic. + No Seed Oils. + Chef-Crafted. + Delivered Fresh.\". CTA: \"GET ELEVATED\" + getelevatedmeals.com. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Save $50+/week vs. eating out",
+        "subhead": "100% Organic. No Seed Oils. Chef-Crafted. Delivered Fresh.",
+        "cta": "GET ELEVATED"
+      },
+      "notes": "N09 — Misfits Market price comparison stack. Value positioning vs restaurants.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg"
+      ]
+    },
+    {
+      "template_number": 10,
+      "template_name": "transformation-results-story",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nTransformation testimonial ad. Background: warm lifestyle photo of a fit, energetic person preparing their meal containers in a bright modern California kitchen, morning sunlight streaming in, athletic wear, confident posture. Soft dark charcoal (#1A1A1A) tint overlay. Top: large quotation marks in warm gold (#C9A84C). Testimonial text in bold serif display: \"Elevated Meals has completely transformed the way I approach my diet. The meals are delicious, and I can eat clean without the hassle!\". Attribution: \"— Sarah T. | Fitness Enthusiast | 3-month subscriber\". Small ★★★★★ stars in warm gold. Bottom: Elevated Meals logo + \"Join the Elevated Reset Program — included with every subscription\". CTA strip: getelevatedmeals.com. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Elevated Meals has completely transformed the way I approach my diet.",
+        "subhead": "— Sarah T., Fitness Enthusiast, 3-month subscriber",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "N10 — Trifecta/Factor transformation testimonial. Uses verbatim customer quote."
+    },
+    {
+      "template_number": 11,
+      "template_name": "bright-scroll-stopper-benefits",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nBright, scroll-stopping benefit-stack ad. Background: vibrant warm gold (#C9A84C) gradient. Clean, energetic graphic layout. Top: Elevated Meals logo in dark charcoal (#1A1A1A). Center: benefit stack in large, clean sans-serif text in dark charcoal with line separators:\n— Chef-crafted meals delivered every Sunday\n— Ready in 3 minutes flat\n— 100% organic, always fresh, never frozen\n— Zero seed oils — cooked in tallow & avocado oil\n— Grass-fed, pasture-raised, wild-caught\nBottom: bold CTA button \"GET ELEVATED\" in cream on dark charcoal. Small \"Starting at $14.99/meal\" below in dark charcoal. Punchy, scannable, impossible to miss in the feed. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Why 500+ athletes choose Elevated Meals",
+        "subhead": "Starting at $14.99/meal",
+        "cta": "GET ELEVATED"
+      },
+      "notes": "N11 — HelloFresh bright scroll-stopper with benefit stack. Broad awareness."
+    },
+    {
+      "template_number": 12,
+      "template_name": "weekly-menu-grid",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space.\n\nWeekly menu grid showcase ad. Clean cream (#F5F0E8) frame. Header: \"Elevated Meals | This Week's Menu\" in dark charcoal with warm gold accent line. 2x2 grid of plated meal photos, each in a clean rounded rectangle frame:\nTop Left: Herb-Crusted Wild Salmon with asparagus and wild rice\nTop Right: Grass-Fed Steak Bowl with roasted sweet potato and kale\nBottom Left: Organic Turkey Meatballs with zucchini noodles and marinara\nBottom Right: Pasture-Raised Chicken with quinoa and seasonal vegetables\nEach photo shows professional overhead shot in premium containers with warm natural lighting. Small text under each in dark charcoal: dietary tag and macro info (e.g., \"GF | DF | 42g protein\"). Bottom CTA in warm gold on dark charcoal strip: \"Order by Thursday 7 PM → Delivered Sunday\" + getelevatedmeals.com. Appetizing, organized, informational. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "This Week's Menu",
+        "subhead": "Order by Thursday 7 PM → Delivered Sunday",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "N12 — Factor weekly menu grid. Showcasing variety, driving menu page visits.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    }
+  ]
+}

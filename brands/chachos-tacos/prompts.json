@@ -1,0 +1,288 @@
+{
+  "business": "Chachos Tacos",
+  "category": "Restaurant / Mexican Food — Border-Style Tacos",
+  "location": "San Diego, CA",
+  "generated_at": "2026-04-11T12:00:00Z",
+  "prompts": [
+    {
+      "template_number": 1,
+      "template_name": "google-review-card",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nClean, high-trust static ad in the style of a premium Google review card. Background: softly blurred photo of a beautifully plated carne asada taco on a handmade corn tortilla with fresh cilantro, diced onion, and a drizzle of vibrant green salsa, with a warm, slightly darkened overlay. Centered card element with white rounded rectangle, subtle drop shadow. Large gold five-star rating (★★★★★) at top. Bold sans-serif headline: \"Decent price, great flavor, easy to order, very friendly!\". Attribution line below in lighter weight: \"— Jessica, San Diego Yelp Review\". Business name/logo lockup bottom center: Chachos Tacos. Primary brand color deep red (#C41E3A) used as accent stripe at bottom. Aspect ratio 4:5. Ultra-realistic photography style, professional ad composition.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Decent price, great flavor, easy to order, very friendly!",
+        "subhead": "— Jessica, San Diego Yelp Review",
+        "cta": "chachostacossd.com"
+      },
+      "notes": "Uses top customer review phrase verbatim. Reference image of finished taco dish recommended for background."
+    },
+    {
+      "template_number": 2,
+      "template_name": "before-after-split",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nHigh-impact before/after split ad. Exact vertical 50/50 split. LEFT SIDE: labeled \"BEFORE\" in white bold uppercase with subtle dark overlay — shows raw marinated pork on a prep station, uncooked corn masa dough, and fresh uncut vegetables. RIGHT SIDE: labeled \"AFTER\" in deep red (#C41E3A) bold uppercase — shows a gorgeous plated cochinita pibil burrito cut in half revealing juicy tender pork, with homemade chips and green salsa on the side. Thin white dividing line with small circular badge at center reading \"Chachos Tacos\". Bottom strip in deep red (#C41E3A): white text \"Border-Style Tacos | Clairemont Mesa | chachostacossd.com\". Clean, professional, results-focused composition. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": true,
+      "reference_asset_type": "before_after",
+      "copy": {
+        "headline": "From Scratch to Plate",
+        "subhead": "Border-Style Tacos | Clairemont Mesa | chachostacossd.com",
+        "cta": "chachostacossd.com"
+      },
+      "notes": "Before/after showing raw ingredients to finished dish. Best with real prep and plated food photos."
+    },
+    {
+      "template_number": 3,
+      "template_name": "owner-guarantee",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nPremium trust-building static ad featuring a real business owner. Background: clean charcoal (#2D2D2D) with subtle linen texture. Left side: professional photo of Manny, the owner of Chachos Tacos, wearing an apron, warm smile, standing in front of the kitchen. Right side: bold typographic treatment. Large display font headline in white: \"Every Tortilla. Every Salsa. Every Dish. Handmade. No Shortcuts.\". Subhead in lighter weight gold (#F5A623): \"My grandma's recipes. My hands. Your table.\". Owner signature 'Manny' below in script font. Business name and chachostacossd.com at bottom in deep red (#C41E3A). Clean, direct-response ad aesthetic. No stock photo feel — real and personal. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "owner",
+      "copy": {
+        "headline": "Every Tortilla. Every Salsa. Every Dish. Handmade. No Shortcuts.",
+        "subhead": "My grandma's recipes. My hands. Your table.",
+        "cta": "chachostacossd.com"
+      },
+      "notes": "Requires owner headshot. Strong trust angle — family recipes, handmade quality."
+    },
+    {
+      "template_number": 4,
+      "template_name": "limited-time-offer",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nHigh-urgency direct response static ad. Bold graphic layout. Background: deep red (#C41E3A) with subtle diagonal stripe texture. Large starburst or badge shape in contrasting gold (#F5A623) at top: \"CATERING SPECIAL\". Main headline in white, heavy weight display font: \"Book Your Taco Party — 10% Off First Order\". Subhead: \"Handmade tacos, burritos & sides for your next event. We bring the border-style flavor to you.\". Urgency line: \"Summer dates filling fast — book this week\". CTA button at bottom: \"Call (619) 587-1086\" in white on charcoal (#2D2D2D) background. Chachos Tacos logo top corner. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Book Your Taco Party — 10% Off First Order",
+        "subhead": "Handmade tacos, burritos & sides for your next event.",
+        "cta": "Call (619) 587-1086"
+      },
+      "notes": "Catering promo angle. Adjust offer details based on Manny's actual catering pricing/promos."
+    },
+    {
+      "template_number": 5,
+      "template_name": "stat-social-proof",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nClean, editorial-style static ad built around a single impressive statistic. Minimalist layout with generous white space. Background: charcoal (#2D2D2D). Center-aligned composition. Enormous display number in gold (#F5A623): \"4.6★\". Label below the stat in white: \"Average Rating Across 300+ Reviews\". Thin horizontal rule divider in deep red (#C41E3A). Supporting line in white: \"San Diego's Best-Kept Secret for Border-Style Tacos\". Business name 'Chachos Tacos' and logo bottom center in deep red (#C41E3A). Ultra-clean, confidence-building design. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "4.6★",
+        "subhead": "Average Rating Across 300+ Reviews",
+        "cta": "chachostacossd.com"
+      },
+      "notes": "Combined review count across platforms. Verify exact numbers before final run."
+    },
+    {
+      "template_number": 6,
+      "template_name": "local-proof-service-area",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nWarm, community-rooted static ad emphasizing local presence. Background: subtle topographic San Diego coastline texture in light warm tan. Text-forward layout. Top line in medium caps gold (#F5A623): \"PROUDLY SERVING\". Large bold display headline in charcoal (#2D2D2D) listing areas: \"Clairemont · Kearny Mesa · Bay Park · UC San Diego · Mission Bay\". Body copy in charcoal: \"Family-owned and cooking from scratch in Clairemont Mesa. Not a chain. Not a franchise. Just Manny and the crew, making every tortilla by hand and every salsa from scratch.\". Bottom strip: 'Chachos Tacos' name, (619) 587-1086, chachostacossd.com in deep red (#C41E3A). Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Clairemont · Kearny Mesa · Bay Park · UC San Diego · Mission Bay",
+        "subhead": "Family-owned and cooking from scratch in Clairemont Mesa.",
+        "cta": "(619) 587-1086"
+      },
+      "notes": "Local community play — emphasizes independence vs chains. Verify delivery area neighborhoods."
+    },
+    {
+      "template_number": 7,
+      "template_name": "problem-solution",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nDirect response two-part static ad. Top half (60%): dark charcoal (#2D2D2D) overlay with bold empathy-first headline in white: \"Tired of Tacos That Taste Like They Came From a Bag?\". Smaller italic subhead in gold (#F5A623): \"You deserve better than reheated tortillas and jarred salsa.\". Horizontal deep red (#C41E3A) divider. Bottom half (40%): deep red (#C41E3A) background with solution in white: \"Handmade corn & flour tortillas. Scratch-made green salsa. Real border-style flavor.\" and \"4.6★ on 300+ reviews — taste the difference.\". CTA: \"Order at chachostacossd.com\". Chachos Tacos logo bottom right. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Tired of Tacos That Taste Like They Came From a Bag?",
+        "subhead": "You deserve better than reheated tortillas and jarred salsa.",
+        "cta": "Order at chachostacossd.com"
+      },
+      "notes": "Problem/solution framing — positions Chachos against low-quality chain competitors."
+    },
+    {
+      "template_number": 8,
+      "template_name": "team-crew-credibility",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nProfessional team credibility ad. Background: high-quality photo of a friendly kitchen crew in black aprons and Chachos Tacos branded shirts, standing behind a prep counter loaded with fresh ingredients — tortillas, grilled meats, chopped cilantro, limes. Dark-to-transparent gradient overlay from bottom 40%. Bottom text: Large white bold headline: \"Made Fresh. Made by Hand. Made by Us.\". Subline in gold (#F5A623): \"Family recipes, real ingredients, no shortcuts since day one.\". Credential badge strip: small icons for key trust signals — 4.6★ Google, Family Owned, Handmade Daily, 300+ Reviews. Chachos Tacos logo and chachostacossd.com. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": true,
+      "reference_asset_type": "team",
+      "copy": {
+        "headline": "Made Fresh. Made by Hand. Made by Us.",
+        "subhead": "Family recipes, real ingredients, no shortcuts since day one.",
+        "cta": "chachostacossd.com"
+      },
+      "notes": "Requires team/kitchen crew photo for best results."
+    },
+    {
+      "template_number": 9,
+      "template_name": "multi-review-stack",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nMulti-review social proof ad in portrait/story format. Background: soft gradient from deep red (#C41E3A) to charcoal (#2D2D2D). Semi-transparent white card layered over background. Top: 'Chachos Tacos' and \"What San Diego Is Saying\" header in gold (#F5A623). Three stacked review blocks, each with: ★★★★★ gold stars, review text in italics: \"Decent price, great flavor, easy to order, very friendly!\", \"The CA burrito is great as is the surf and turf taco\", \"Juicy, flavorful, with beautifully tender pork\". Reviewer first name + city in small caps below each: \"Jessica · San Diego\", \"Mike · Clairemont\", \"Sarah · San Diego\". Divider lines between reviews. Bottom: \"300+ Reviews | 4.6★ Average\". CTA strip in deep red: \"chachostacossd.com | (619) 587-1086\". Aspect ratio 9:16.",
+      "aspect_ratio": "9:16",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "What San Diego Is Saying",
+        "subhead": "300+ Reviews | 4.6★ Average",
+        "cta": "chachostacossd.com | (619) 587-1086"
+      },
+      "notes": "Three real customer reviews stacked. Verify reviewer names from actual review platforms."
+    },
+    {
+      "template_number": 10,
+      "template_name": "us-vs-them-comparison",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nBold us-vs-them comparison ad. Clean two-column table layout. Left column header: \"Chain Taco Shops\" in faded gray tone. Right column header: \"Chachos Tacos\" in deep red (#C41E3A), bold. Six comparison rows:\nRow 1: \"Handmade Tortillas\" — ✗ vs ✓\nRow 2: \"Scratch-Made Salsa\" — ✗ vs ✓\nRow 3: \"Family Recipes\" — ✗ vs ✓\nRow 4: \"Craft Brewery Location\" — ✗ vs ✓\nRow 5: \"4.6★ / 300+ Reviews\" — ✗ vs ✓\nRow 6: \"Real Border-Style Flavor\" — ✗ vs ✓\nBottom CTA: \"Taste the Difference — chachostacossd.com\". Bold ✗ in gray, bold ✓ in deep red (#C41E3A). Background white with subtle warm texture. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Chain Taco Shops vs. Chachos Tacos",
+        "subhead": "Handmade Tortillas ✓ | Scratch-Made Salsa ✓ | Family Recipes ✓",
+        "cta": "Taste the Difference — chachostacossd.com"
+      },
+      "notes": "Positions against generic chains without naming specific competitors."
+    },
+    {
+      "template_number": 11,
+      "template_name": "urgency-seasonal-hook",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nSeasonally relevant static ad with strong urgency. Background: warm golden-hour patio scene at a San Diego brewery with string lights and outdoor seating, with deep red (#C41E3A) tinted overlay. Top badge/ribbon: \"CINCO DE MAYO 2026\" in white on deep red (#C41E3A). Main headline in white bold: \"Celebrate With Real Border-Style Tacos & Craft Beer\". Supporting copy in gold (#F5A623): \"Handmade tacos + Societe Brewing — the combo you've been waiting for.\". Urgency line in white: \"Reserve your catering spot now — limited availability\". CTA button in gold (#F5A623): \"Call (619) 587-1086\". Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Celebrate With Real Border-Style Tacos & Craft Beer",
+        "subhead": "Handmade tacos + Societe Brewing — the combo you've been waiting for.",
+        "cta": "Call (619) 587-1086"
+      },
+      "notes": "Cinco de Mayo seasonal hook. Update date/event for current season."
+    },
+    {
+      "template_number": 12,
+      "template_name": "free-quote-low-friction",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nLow-pressure, high-trust static ad focused on reducing friction. Background: warm photo of a beautifully spread taco catering setup — trays of carne asada, al pastor, fresh tortillas, salsas, and toppings — with soft warm overlay. Top left: Chachos Tacos logo. Center: conversational headline in white: \"Planning a Party? Let Us Handle the Food.\". Subhead in gold (#F5A623): \"No minimum order. No stress. Just incredible tacos your guests won't stop talking about.\". Trust signal row in white: ✓ 4.6★ on Google ✓ Handmade Everything ✓ Family-Owned ✓ Delivery Available. CTA in deep red (#C41E3A) strip: \"Get a Free Catering Quote — (619) 587-1086\". Honest, approachable, zero-pressure aesthetic. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Planning a Party? Let Us Handle the Food.",
+        "subhead": "No minimum order. No stress. Just incredible tacos.",
+        "cta": "Get a Free Catering Quote — (619) 587-1086"
+      },
+      "notes": "Catering lead gen ad. Verify catering terms (minimum order, delivery range) with Manny."
+    },
+    {
+      "template_number": 13,
+      "template_name": "service-menu",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nClean, menu-style service list ad. Background: warm cream/off-white with subtle paper texture. Top: \"Chachos Tacos\" in large bold deep red (#C41E3A) brand font, followed by \"Border-Style Mexican • Clairemont Mesa\" in charcoal. Horizontal deep red (#C41E3A) divider. Menu list with small gold (#F5A623) taco icons as bullets:\n• Carne Asada Tacos\n• Al Pastor Tacos\n• Surf & Turf Tacos\n• Cochinita Pibil Burrito\n• CA Burrito\n• Breakfast Tacos\n• Homemade Chips & Salsa\n• Carne Asada Fries\nSmall print in charcoal: \"Clairemont Mesa • Tue–Sat 11am–8:30pm • Sun 11am–6pm\". Bottom CTA in deep red (#C41E3A): \"Order Now — chachostacossd.com\". Clean, informational, well-organized. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Chachos Tacos — Border-Style Mexican",
+        "subhead": "Carne Asada • Al Pastor • Surf & Turf • CA Burrito • & More",
+        "cta": "Order Now — chachostacossd.com"
+      },
+      "notes": "Menu awareness ad. Shows breadth of offerings for new customers."
+    },
+    {
+      "template_number": 14,
+      "template_name": "finished-work-showcase",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nStunning full-bleed results ad. Background: full-frame photo of three perfectly assembled carne asada tacos on handmade corn tortillas, topped with fresh cilantro, diced white onion, and a bright green salsa drizzle, arranged on a rustic wooden board with lime wedges — warm golden lighting, rich saturated colors, visible char marks on the meat. Very minimal text overlay — letting the food speak for itself. Bottom 20% has a gradient fade to deep red (#C41E3A). Bottom text: 'Chachos Tacos' in large, confident white display font. Single subline in gold (#F5A623): \"This is border-style. This is handmade. This is the real thing.\". Website chachostacossd.com in small white text at bottom. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Chachos Tacos",
+        "subhead": "This is border-style. This is handmade. This is the real thing.",
+        "cta": "chachostacossd.com"
+      },
+      "notes": "Hero food shot — let the tacos sell themselves. High-res finished dish photo is critical."
+    },
+    {
+      "template_number": 15,
+      "template_name": "testimonial-with-photo",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nWarm, editorial testimonial ad. Background: photo of a happy group of friends eating tacos at an outdoor brewery patio with string lights and craft beer glasses, warm golden hour lighting, with warm deep red (#C41E3A) tint. Top: large quotation mark graphic in gold (#F5A623). Main testimonial text in italic white: \"Juicy, flavorful, with beautifully tender pork. The green sauce is a standout. Homemade chips are a must — we get them every single time.\". Attribution in lighter weight: \"— Sarah M. | Clairemont Mesa | Yelp Review\". Small ★★★★★ gold stars. Bottom: Chachos Tacos logo + \"San Diego's Best-Kept Secret\" in white. CTA in deep red (#C41E3A) strip: \"chachostacossd.com\". Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Juicy, flavorful, with beautifully tender pork. The green sauce is a standout.",
+        "subhead": "— Sarah M. | Clairemont Mesa | Yelp Review",
+        "cta": "chachostacossd.com"
+      },
+      "notes": "Combines multiple review phrases into one compelling testimonial. Verify attribution."
+    },
+    {
+      "template_number": 16,
+      "template_name": "speed-responsiveness",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nUrgency-first speed ad. Background: dark charcoal (#2D2D2D). Large taco icon or flame icon in gold (#F5A623). Massive white display headline: \"LUNCH IN 15\". Subhead in gold (#F5A623): \"Hot, handmade border-style tacos. Ready when you are.\". Supporting line in white: \"Skip the line — order ahead on Grubhub or walk up to the window at Societe Brewing.\". CTA button in deep red (#C41E3A): \"Order Now — chachostacossd.com\". High urgency, bold, no fluff. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "LUNCH IN 15",
+        "subhead": "Hot, handmade border-style tacos. Ready when you are.",
+        "cta": "Order Now — chachostacossd.com"
+      },
+      "notes": "Speed/convenience angle for lunch crowd. Verify actual order turnaround time with Manny."
+    },
+    {
+      "template_number": 17,
+      "template_name": "price-anchor-value-frame",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nValue-framing static ad that showcases what you get. Background: close-up photo of a loaded carne asada plate with three tacos, rice, beans, and fresh salsa, with elegant dark overlay. Top eyebrow in gold (#F5A623): \"For the price of a sad fast-food combo...\". Large display headline in white: \"Get Handmade Border-Style Tacos That Actually Taste Like Something\". Itemized value list in white: \"✓ Handmade corn or flour tortillas ✓ Scratch-made green salsa ✓ Real grilled-to-order meats ✓ Homemade chips on the side\". Price callout in gold (#F5A623): \"Starting at $3.99/taco\". Bottom CTA in deep red (#C41E3A) strip: \"chachostacossd.com | Clairemont Mesa\". Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Get Handmade Border-Style Tacos That Actually Taste Like Something",
+        "subhead": "For the price of a sad fast-food combo...",
+        "cta": "chachostacossd.com | Clairemont Mesa"
+      },
+      "notes": "Value reframe vs fast food. Verify starting taco price with Manny."
+    },
+    {
+      "template_number": 18,
+      "template_name": "faq-objection-buster",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nDirect, conversational objection-handling ad. Clean editorial layout. Background: warm cream/off-white. Bold hook framed as a customer question in italic, larger size, deep red (#C41E3A): \"Wait — you're inside a brewery? Do I have to drink beer to eat there?\". Below in charcoal (#2D2D2D): honest direct answer paragraph: \"Nope. Societe Brewing is our home base, but you don't need to order a beer. Families, kids, solo lunch breaks — everyone's welcome. Walk up, grab tacos, sit on the patio or take it to go. The beer's there if you want it. The tacos are there no matter what.\". Small Manny signature sign-off in script. Chachos Tacos name, (619) 587-1086 and chachostacossd.com at bottom in deep red (#C41E3A). Feels like a real person wrote it. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Wait — you're inside a brewery? Do I have to drink beer to eat there?",
+        "subhead": "Nope. Families, kids, solo lunch breaks — everyone's welcome.",
+        "cta": "(619) 587-1086 | chachostacossd.com"
+      },
+      "notes": "Addresses the #1 confusion about being located inside Societe Brewing."
+    },
+    {
+      "template_number": 19,
+      "template_name": "referral-community-social-proof",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nCommunity and referral-driven social proof ad. Warm neighborhood aesthetic. Background: aerial view of Clairemont Mesa neighborhood in San Diego during golden hour, palm trees and suburban rooftops, with soft deep red (#C41E3A) tint overlay. Center bold headline in white: \"Clairemont's Best-Kept Secret — But Not for Long.\". Body in white: \"Your neighbors already know. 300+ five-star reviews and counting. Handmade border-style tacos at Societe Brewing.\". Subline in gold (#F5A623): \"Clairemont Mesa · Kearny Mesa · Bay Park · UTC\". Trust badges: Google stars 4.6★ + 300+ reviews. CTA in deep red (#C41E3A) strip: \"Find Us at Societe Brewing — chachostacossd.com\". Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Clairemont's Best-Kept Secret — But Not for Long.",
+        "subhead": "Your neighbors already know. 300+ five-star reviews and counting.",
+        "cta": "Find Us at Societe Brewing — chachostacossd.com"
+      },
+      "notes": "Neighborhood trust play. Leverages 'best-kept secret' positioning from their own branding."
+    },
+    {
+      "template_number": 20,
+      "template_name": "risk-reversal-guarantee",
+      "prompt": "Warm, vibrant Mexican restaurant aesthetic. Deep red (#C41E3A) and charcoal (#2D2D2D) brand palette with gold (#F5A623) accents. Bold sans-serif typography, clean and modern. Photography style: close-up food shots with warm golden lighting, rich saturated colors, visible texture on tortillas and grilled meats. Authentic border-style taco shop energy — not corporate, not fast-food. Family-owned warmth with a craft brewery edge. San Diego sunshine and neighborhood pride. Trust-forward, appetite-triggering, real and unpolished.\n\nBold, confidence-forward guarantee ad. Background: clean deep red (#C41E3A) with subtle fabric texture. Large bold display headline in white: \"If You Don't Love Your First Taco, the Next One's On Us.\". Below: supporting paragraph in white, lighter weight: \"We've served thousands of tacos from this window. Every tortilla handmade. Every salsa from scratch. Every plate built with the same recipes my grandma taught me. If your first bite doesn't make you a regular, come back and let us make it right.\". Owner headshot of Manny in circle frame, bottom left. Signature treatment in script: \"Manny, Owner — Chachos Tacos\". Trust signal row in gold (#F5A623): ★4.6 Google | 300+ Reviews | Family-Owned | Handmade Daily. Bottom: (619) 587-1086 | chachostacossd.com CTA in white. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "owner",
+      "copy": {
+        "headline": "If You Don't Love Your First Taco, the Next One's On Us.",
+        "subhead": "Every tortilla handmade. Every salsa from scratch.",
+        "cta": "(619) 587-1086 | chachostacossd.com"
+      },
+      "notes": "Requires owner headshot. Verify Manny is comfortable with this guarantee offer before running."
+    }
+  ]
+}

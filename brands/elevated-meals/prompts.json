@@ -1,0 +1,326 @@
+{
+  "business": "Elevated Meals",
+  "category": "Chef-Crafted Organic Meal Prep Delivery",
+  "location": "California",
+  "generated_at": "2026-04-13T12:00:00Z",
+  "prompts": [
+    {
+      "template_number": 1,
+      "template_name": "google-review-card",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nClean, high-trust static ad in the style of a premium Google review card. Background: softly blurred photo of a beautifully plated chef-crafted meal \u2014 grilled grass-fed steak with roasted seasonal vegetables and quinoa on a clean white plate, with a warm, slightly darkened overlay. Centered card element with white rounded rectangle, subtle drop shadow. Large gold five-star rating (\u2605\u2605\u2605\u2605\u2605) at top. Bold sans-serif headline: \"I've tried so many meal services, but this is the first one that truly aligns with my health and wellness goals.\". Attribution line below in lighter weight: \"\u2014 Michael R., Wellness Advocate\". Business name/logo lockup bottom center: Elevated Meals. Primary brand color warm gold (#C9A84C) used as accent stripe at bottom. Aspect ratio 4:5. Ultra-realistic photography style, professional ad composition.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "I've tried so many meal services, but this is the first one that truly aligns with my health and wellness goals.",
+        "subhead": "\u2014 Michael R., Wellness Advocate",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Uses verbatim customer testimonial from website. Reference image of a finished meal recommended for background.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 2,
+      "template_name": "before-after-split",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nHigh-impact before/after split ad. Exact vertical 50/50 split. LEFT SIDE: labeled \"BEFORE\" in white bold uppercase with subtle dark overlay \u2014 shows a messy kitchen counter with takeout containers, fast food wrappers, and a stressed person looking at their phone. RIGHT SIDE: labeled \"AFTER\" in warm gold (#C9A84C) bold uppercase \u2014 shows a clean, bright kitchen counter with three neatly packaged Elevated Meals containers, colorful fresh organic meals visible through clear lids, a person smiling and relaxed. Thin white dividing line with small circular badge at center reading \"Elevated Meals\". Bottom strip in dark charcoal (#1A1A1A): white text \"Chef-Crafted Organic Meals | Delivered Weekly | getelevatedmeals.com\". Clean, professional, results-focused composition. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": true,
+      "reference_asset_type": "before_after",
+      "copy": {
+        "headline": "From Takeout Chaos to Clean Eating",
+        "subhead": "Chef-Crafted Organic Meals | Delivered Weekly | getelevatedmeals.com",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Lifestyle before/after showing the transformation from unhealthy takeout habits to organized clean eating. Best with real meal photos.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg"
+      ]
+    },
+    {
+      "template_number": 3,
+      "template_name": "owner-guarantee",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nPremium trust-building static ad featuring a real business owner. Background: clean cream (#F5F0E8) with subtle linen texture. Left side: professional photo of Manny Yerena, the founder \u2014 fit, confident, wearing a clean black chef coat or athletic wear, warm genuine smile. Right side: bold typographic treatment. Large display font headline in dark charcoal (#1A1A1A): \"No Seed Oils. No Additives. No Junk. Just Real Food.\". Subhead in lighter weight warm gold (#C9A84C): \"100% organic. Cooked in tallow, avocado oil, and olive oil. Every single meal.\". Owner signature 'Manny' below in script font. Business name and getelevatedmeals.com at bottom in warm gold (#C9A84C). Clean, direct-response ad aesthetic. No stock photo feel \u2014 real and personal. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "owner",
+      "copy": {
+        "headline": "No Seed Oils. No Additives. No Junk. Just Real Food.",
+        "subhead": "100% organic. Cooked in tallow, avocado oil, and olive oil. Every single meal.",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Requires owner headshot of Manny. The 'no seed oils' angle is the strongest differentiator \u2014 leads with ingredient integrity.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 4,
+      "template_name": "limited-time-offer",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nHigh-urgency direct response static ad. Bold graphic layout. Background: dark charcoal (#1A1A1A) with subtle geometric texture. Large elegant badge shape in warm gold (#C9A84C) at top: \"NEW MEMBER OFFER\". Main headline in cream (#F5F0E8), heavy weight display font: \"Your First Week of Clean Eating \u2014 Starting at $14.99/Meal\". Subhead in white: \"Chef-crafted organic meals. Grass-fed. Pasture-raised. Wild-caught. Delivered every Sunday.\". Urgency line in warm gold: \"Order by Thursday 7 PM \u2014 Limited Sunday Delivery Slots\". CTA button at bottom: \"Get Started at getelevatedmeals.com\" in charcoal on cream background. Elevated Meals logo top corner. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Your First Week of Clean Eating \u2014 Starting at $14.99/Meal",
+        "subhead": "Chef-crafted organic meals. Grass-fed. Pasture-raised. Wild-caught. Delivered every Sunday.",
+        "cta": "Get Started at getelevatedmeals.com"
+      },
+      "notes": "New customer acquisition ad. Uses per-meal price to make premium positioning feel accessible. Thursday cutoff creates natural urgency."
+    },
+    {
+      "template_number": 5,
+      "template_name": "stat-social-proof",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nClean, editorial-style static ad built around a single impressive statistic. Minimalist layout with generous white space. Background: dark charcoal (#1A1A1A). Center-aligned composition. Enormous display number in warm gold (#C9A84C): \"$500+\". Label below the stat in cream (#F5F0E8): \"In Meals, Coaching & Resources \u2014 Every Week\". Thin horizontal rule divider in warm gold (#C9A84C). Supporting line in cream: \"Starting at just $74.99/week. Eat Clean. Train Hard. Live Elevated.\". Business name 'Elevated Meals' and logo bottom center in warm gold (#C9A84C). Ultra-clean, confidence-building design. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "$500+",
+        "subhead": "In Meals, Coaching & Resources \u2014 Every Week",
+        "cta": "Starting at just $74.99/week"
+      },
+      "notes": "Value-stacking stat from website. Shows total value of subscription package (meals + Reset Program + nutrition guidance)."
+    },
+    {
+      "template_number": 6,
+      "template_name": "local-proof-service-area",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nWarm, community-rooted static ad emphasizing local presence. Background: subtle topographic California coastline texture in light cream (#F5F0E8). Text-forward layout. Top line in medium caps warm gold (#C9A84C): \"DELIVERING ACROSS CALIFORNIA\". Large bold display headline in dark charcoal (#1A1A1A): \"Fresh. Organic. Chef-Crafted. At Your Door Every Sunday.\". Body copy in charcoal: \"Founded by Manny Yerena \u2014 bodybuilder, Muay Thai practitioner, and lifelong wellness advocate. Not a factory. Not a franchise. Just a chef who believes you deserve better than seed oils and preservatives.\". Bottom strip: 'Elevated Meals' name, getelevatedmeals.com in warm gold (#C9A84C). Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Fresh. Organic. Chef-Crafted. At Your Door Every Sunday.",
+        "subhead": "Founded by Manny Yerena \u2014 bodybuilder, Muay Thai practitioner, and lifelong wellness advocate.",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Local/founder trust ad. Manny's fitness background adds credibility for health-focused meal prep."
+    },
+    {
+      "template_number": 7,
+      "template_name": "problem-solution",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nDirect response two-part static ad. Top half (60%): dark charcoal (#1A1A1A) overlay with bold empathy-first headline in cream (#F5F0E8): \"Tired of Cooking After the Gym?\". Smaller italic subhead in warm gold (#C9A84C): \"You train hard. You shouldn't have to come home and meal prep for an hour too.\". Horizontal warm gold divider. Bottom half (40%): cream (#F5F0E8) background with solution in dark charcoal: \"Chef-crafted organic meals. Delivered every Sunday. Ready in minutes.\" and \"100% organic. No seed oils. Grass-fed. Pasture-raised. Wild-caught.\". CTA: \"Get Elevated \u2192 getelevatedmeals.com\" in warm gold. Elevated Meals logo bottom right. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Tired of Cooking After the Gym?",
+        "subhead": "You train hard. You shouldn't have to come home and meal prep for an hour too.",
+        "cta": "Get Elevated \u2192 getelevatedmeals.com"
+      },
+      "notes": "Pain-point ad targeting fitness enthusiasts. The post-gym exhaustion + cooking conflict is a core audience pain point."
+    },
+    {
+      "template_number": 8,
+      "template_name": "team-crew-credibility",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nProfessional team credibility ad. Background: high-quality photo of a professional kitchen \u2014 a chef in clean whites plating a beautiful organic meal, steam rising, fresh ingredients visible on the prep station. Dark-to-transparent gradient overlay from bottom 40%. Bottom text: Large white bold headline: \"Chef-Crafted. Never Mass-Produced.\". Subline in warm gold (#C9A84C): \"Every meal made fresh by real chefs using 100% organic ingredients\". Credential badge strip: small icons for key trust signals (organic certified, no seed oils, grass-fed, weekly fresh delivery). Elevated Meals logo and getelevatedmeals.com. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": true,
+      "reference_asset_type": "team",
+      "copy": {
+        "headline": "Chef-Crafted. Never Mass-Produced.",
+        "subhead": "Every meal made fresh by real chefs using 100% organic ingredients",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Kitchen/chef credibility ad. Best with real kitchen prep photos showing the chef at work.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 9,
+      "template_name": "multi-review-stack",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nMulti-review social proof ad in portrait/story format. Background: soft gradient from dark charcoal (#1A1A1A) to slightly lighter charcoal. Semi-transparent cream (#F5F0E8) card layered over background. Top: 'Elevated Meals' and \"What Our Members Say\" header in warm gold (#C9A84C). Three stacked review blocks, each with: \u2605\u2605\u2605\u2605\u2605 gold stars, review text in italics: \"Completely transformed the way I approach my diet\" \u2014 Sarah T., \"The first meal service that truly aligns with my wellness goals\" \u2014 Michael R., \"I can eat clean without the hassle, and the meals are genuinely delicious\" \u2014 Jessica L. Divider lines between reviews in warm gold. Bottom: \"Join the Elevated Community\". CTA strip: \"getelevatedmeals.com\" in warm gold. Aspect ratio 9:16.",
+      "aspect_ratio": "9:16",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "What Our Members Say",
+        "subhead": "Completely transformed the way I approach my diet \u2014 Sarah T.",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Stories/Reels format. Uses all three on-site testimonials condensed to key phrases."
+    },
+    {
+      "template_number": 10,
+      "template_name": "us-vs-them-comparison",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nBold us-vs-them comparison ad. Clean two-column table layout on cream (#F5F0E8) background. Left column header: \"Generic Meal Prep\" in faded gray tone. Right column header: \"Elevated Meals\" in warm gold (#C9A84C), bold. Six comparison rows:\nRow 1: \"100% Organic Ingredients\" \u2014 \u2717 vs \u2713\nRow 2: \"No Seed Oils \u2014 Ever\" \u2014 \u2717 vs \u2713\nRow 3: \"Grass-Fed, Pasture-Raised, Wild-Caught\" \u2014 \u2717 vs \u2713\nRow 4: \"Cooked in Tallow & Avocado Oil\" \u2014 \u2717 vs \u2713\nRow 5: \"Chef-Crafted Weekly Menu\" \u2014 \u2717 vs \u2713\nRow 6: \"Free Fitness & Mindfulness Program\" \u2014 \u2717 vs \u2713\nBottom CTA: \"Eat Clean. Train Hard. Live Elevated. \u2192 getelevatedmeals.com\". Bold \u2717 in red/gray, bold \u2713 in warm gold (#C9A84C). Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Not All Meal Prep Is Created Equal",
+        "subhead": "Elevated Meals vs. Generic Meal Prep",
+        "cta": "Eat Clean. Train Hard. Live Elevated. \u2192 getelevatedmeals.com"
+      },
+      "notes": "The 'no seed oils' differentiator is trending in the health-conscious community. This ad hammers the ingredient quality gap."
+    },
+    {
+      "template_number": 11,
+      "template_name": "urgency-seasonal-hook",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nSeasonally relevant static ad with strong urgency. Background: bright, warm California golden hour light over a clean kitchen counter with fresh organic produce and prepared meals, with warm gold (#C9A84C) tinted overlay. Top badge/ribbon: \"SUMMER BODY SEASON\" in cream on dark charcoal (#1A1A1A). Main headline in dark charcoal: \"Your Nutrition Plan for Summer Starts This Sunday\". Supporting copy in charcoal: \"Organic, chef-crafted meals delivered weekly. No cooking. No cleaning. No excuses.\". Urgency line in warm gold: \"Order by Thursday 7 PM \u2014 Delivered Fresh Sunday Morning\". CTA button: \"Get Elevated \u2192 getelevatedmeals.com\" in cream on charcoal. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Your Nutrition Plan for Summer Starts This Sunday",
+        "subhead": "Organic, chef-crafted meals delivered weekly. No cooking. No cleaning. No excuses.",
+        "cta": "Get Elevated \u2192 getelevatedmeals.com"
+      },
+      "notes": "Summer prep angle. Swap season as needed \u2014 works for New Year resolutions, spring cut, fall prep, etc."
+    },
+    {
+      "template_number": 12,
+      "template_name": "free-quote-low-friction",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nLow-pressure, high-trust static ad focused on reducing friction. Background: warm lifestyle photo of a fit person enjoying a meal at home in a bright, sunlit kitchen with soft cream overlay. Top left: Elevated Meals logo. Center: conversational headline in dark charcoal (#1A1A1A): \"No Contract. No Commitment. Cancel Anytime.\". Subhead in warm gold (#C9A84C): \"Try one week. If you don't love it, just don't reorder. It's that simple.\". Trust signal row in charcoal: \u2713 100% Organic \u2713 No Seed Oils \u2713 Fresh Never Frozen \u2713 Delivered Every Sunday. CTA: \"Try Your First Week \u2192 getelevatedmeals.com\" in warm gold on charcoal strip. Honest, approachable, zero-pressure aesthetic. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "No Contract. No Commitment. Cancel Anytime.",
+        "subhead": "Try one week. If you don't love it, just don't reorder. It's that simple.",
+        "cta": "Try Your First Week \u2192 getelevatedmeals.com"
+      },
+      "notes": "Addresses subscription commitment anxiety from FAQ insights. Low-friction CTA for hesitant buyers.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 13,
+      "template_name": "service-menu",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nClean, menu-style service list ad. Background: cream (#F5F0E8). Top: \"Elevated Meals\" in large brand font dark charcoal (#1A1A1A), followed by \"Eat Clean. Train Hard. Live Elevated.\" in warm gold (#C9A84C). Horizontal warm gold divider. Service list: three plan options each with a warm gold bullet:\n\u2022 5 Meals/Week \u2014 $74.99\n\u2022 10 Meals/Week \u2014 $142.99\n\u2022 15 Meals/Week \u2014 $199.99\nBelow: \"Every plan includes:\" with sub-items: \"\u2713 100% Organic Ingredients \u2713 Rotating Chef Menu \u2713 Macro & Nutrition Guidance \u2713 Elevated Reset Program ($299 value)\". Small print: \"Delivered Fresh Every Sunday | California\". Bottom CTA: \"Choose Your Plan \u2192 getelevatedmeals.com\" in warm gold on charcoal strip. Clean, informational, well-organized. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Choose Your Plan",
+        "subhead": "5 Meals $74.99 \u00b7 10 Meals $142.99 \u00b7 15 Meals $199.99",
+        "cta": "Choose Your Plan \u2192 getelevatedmeals.com"
+      },
+      "notes": "Clear pricing ad. Subscription prices shown. Highlights the included Reset Program as bonus value."
+    },
+    {
+      "template_number": 14,
+      "template_name": "finished-work-showcase",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nStunning full-bleed results ad. Background: full-frame photo of a magazine-quality chef-crafted organic meal \u2014 perfectly seared wild-caught salmon fillet with crispy skin, alongside roasted organic sweet potato and steamed broccolini, all plated on a clean white ceramic plate with natural light casting soft shadows, steam gently rising. Very minimal text overlay \u2014 letting the food speak for itself. Bottom 20% has a gradient fade to dark charcoal (#1A1A1A). Bottom text: 'Elevated Meals' in large, confident display font in cream (#F5F0E8). Single subline in warm gold (#C9A84C): \"100% Organic. Chef-Crafted. Delivered Fresh.\". Website getelevatedmeals.com in small text at bottom. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Elevated Meals",
+        "subhead": "100% Organic. Chef-Crafted. Delivered Fresh.",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Hero food photo ad \u2014 the most important template for a food business. Best with real meal photography. Let the food sell itself.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 15,
+      "template_name": "testimonial-with-photo",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nWarm, editorial testimonial ad. Background: a fit, healthy person enjoying a meal at a bright, sunlit kitchen table \u2014 happy, relaxed, with Elevated Meals containers visible \u2014 with warm cream (#F5F0E8) tint. Top: large quotation mark graphic in warm gold (#C9A84C). Main testimonial text in italic dark charcoal: \"Elevated Meals has completely transformed the way I approach my diet. As a busy professional and gym-goer, I struggled to balance meal prep with my fitness goals. Now I get delicious, protein-packed meals delivered right to my door.\". Attribution: \"\u2014 Sarah T. | Fitness Enthusiast\". Small \u2605\u2605\u2605\u2605\u2605 gold stars. Bottom: Elevated Meals logo + \"Eat Clean. Train Hard. Live Elevated.\". CTA in warm gold (#C9A84C) strip: \"getelevatedmeals.com\". Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "Elevated Meals has completely transformed the way I approach my diet.",
+        "subhead": "\u2014 Sarah T. | Fitness Enthusiast",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Full testimonial ad using Sarah T.'s complete review. Lifestyle background image of someone enjoying the meals.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 16,
+      "template_name": "speed-responsiveness",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nConvenience-first speed ad. Background: dark charcoal (#1A1A1A). Large clock icon in warm gold (#C9A84C). Massive cream display headline: \"3 MINUTES\". Subhead in cream: \"From fridge to plate. That's it.\". Supporting line in warm gold: \"No grocery shopping. No cooking. No cleanup. Just heat and eat.\". Additional line in cream: \"Fresh organic meals delivered every Sunday morning.\". CTA button: \"Get Started \u2192 getelevatedmeals.com\" in charcoal on cream background. High convenience, bold, no fluff. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "3 MINUTES",
+        "subhead": "From fridge to plate. That's it.",
+        "cta": "Get Started \u2192 getelevatedmeals.com"
+      },
+      "notes": "Adapted from speed/emergency template to convenience angle. Emphasizes the time savings of ready-to-heat meals."
+    },
+    {
+      "template_number": 17,
+      "template_name": "price-anchor-value-frame",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nValue-framing static ad that justifies premium pricing. Background: beautiful overhead shot of three organic meal prep containers with colorful, fresh meals \u2014 elegant dark overlay. Top eyebrow in warm gold (#C9A84C): \"For less than a Chipotle bowl...\". Large display headline in cream (#F5F0E8): \"You Get a Chef-Crafted Organic Meal. No Seed Oils. No Compromise.\". Itemized value list in cream: \"\u2713 100% Organic Ingredients \u2713 Grass-Fed, Pasture-Raised, Wild-Caught \u2713 Macro & Nutrition Guidance \u2713 Free Elevated Reset Program ($299 value)\". Price callout in warm gold: \"Starting at $14.99/meal\". Bottom CTA in warm gold (#C9A84C) strip: \"Get Elevated \u2192 getelevatedmeals.com\". Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "finished_work",
+      "copy": {
+        "headline": "For less than a Chipotle bowl... You Get a Chef-Crafted Organic Meal.",
+        "subhead": "Starting at $14.99/meal",
+        "cta": "Get Elevated \u2192 getelevatedmeals.com"
+      },
+      "notes": "Price anchoring against familiar fast-casual restaurant spend. Makes $14.99/meal feel like a steal for organic, chef-crafted quality.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/db57a5b7-8013-485f-bfe2-d543b03e501a/Elevate+Meal+Prep+by+thecreativeresource-6.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/3b2d7d4b-db11-4fe8-a8c0-68fc9dee4402/Elevate+Meal+Prep+by+thecreativeresource-3.jpg",
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    },
+    {
+      "template_number": 18,
+      "template_name": "faq-objection-buster",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nDirect, conversational objection-handling ad. Clean editorial layout. Background: cream (#F5F0E8). Bold hook framed as a customer question in italic, larger size, dark charcoal (#1A1A1A): \"Are the meals fresh or frozen?\". Below: honest direct answer paragraph in charcoal: \"Always fresh. Never frozen. Our chef prepares every meal with 100% organic ingredients earlier that week. It arrives at your door Sunday morning \u2014 ready to heat and eat. No freezer burn. No mystery ingredients. No seed oils. Just real food, made by a real chef, delivered fresh.\". Owner first name sign-off in warm gold (#C9A84C): \"\u2014 Manny, Founder\". Elevated Meals logo and getelevatedmeals.com at bottom. Feels like a real person wrote it. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "Are the meals fresh or frozen?",
+        "subhead": "Always fresh. Never frozen. Our chef prepares every meal with 100% organic ingredients.",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Addresses the #1 FAQ from the website. Fresh vs. frozen is the top objection for meal delivery services."
+    },
+    {
+      "template_number": 19,
+      "template_name": "referral-community-proof",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nCommunity and referral-driven social proof ad. Warm fitness community aesthetic. Background: golden hour California gym exterior or outdoor fitness scene \u2014 people finishing a workout, healthy and energized \u2014 with soft cream (#F5F0E8) tint overlay. Center bold headline in dark charcoal (#1A1A1A): \"The Meal Prep Your Gym Friends Won't Stop Talking About.\". Body in charcoal: \"100% organic. No seed oils. Chef-crafted and delivered fresh every Sunday. This is how California's fitness community eats.\". Subline in warm gold (#C9A84C): \"Join the Elevated Community\". Trust badges: \u2605\u2605\u2605\u2605\u2605 reviews. CTA: \"Get Elevated \u2192 getelevatedmeals.com\" in warm gold on charcoal strip. Aspect ratio 1:1.",
+      "aspect_ratio": "1:1",
+      "needs_reference_images": false,
+      "reference_asset_type": "none",
+      "copy": {
+        "headline": "The Meal Prep Your Gym Friends Won't Stop Talking About.",
+        "subhead": "This is how California's fitness community eats.",
+        "cta": "Get Elevated \u2192 getelevatedmeals.com"
+      },
+      "notes": "Word-of-mouth / community ad targeting the gym/fitness social circle. Builds FOMO and social proof."
+    },
+    {
+      "template_number": 20,
+      "template_name": "risk-reversal-guarantee",
+      "prompt": "Premium, clean wellness aesthetic. Cream (#F5F0E8) and dark charcoal (#1A1A1A) brand palette with warm gold (#C9A84C) accents. Modern minimalist sans-serif typography, generous white space. Photography style: high-end food photography with warm natural lighting, visible steam and texture, clean plating on neutral surfaces. Not clinical or sterile \u2014 warm, aspirational, and approachable. Fitness-lifestyle energy with premium organic quality cues. California sunshine and health-forward optimism. Trust-building, appetite-triggering, magazine-quality composition.\n\nBold, confidence-forward guarantee ad. Background: clean dark charcoal (#1A1A1A) with subtle texture. Large bold display headline in cream (#F5F0E8): \"No Lock-In. No Contract. Just Great Food.\". Below: supporting paragraph in cream: \"We don't trap you in a subscription you can't escape. Order once or subscribe weekly \u2014 your choice. Cancel anytime with a single email. We're confident you'll stay because the food speaks for itself. 100% organic. No seed oils. Chef-crafted fresh every week.\". Owner headshot in circle frame, bottom left. Signature treatment in warm gold (#C9A84C): \"Manny Yerena, Founder \u2014 Elevated Meals\". Trust signal row in warm gold: \u2605\u2605\u2605\u2605\u2605 | 100% Organic | No Seed Oils | Fresh Never Frozen. Bottom: getelevatedmeals.com CTA. Aspect ratio 4:5.",
+      "aspect_ratio": "4:5",
+      "needs_reference_images": true,
+      "reference_asset_type": "owner",
+      "copy": {
+        "headline": "No Lock-In. No Contract. Just Great Food.",
+        "subhead": "We're confident you'll stay because the food speaks for itself.",
+        "cta": "getelevatedmeals.com"
+      },
+      "notes": "Risk reversal addressing subscription commitment fear. Manny's headshot adds trust. Confidence-forward tone.",
+      "reference_urls": [
+        "https://images.squarespace-cdn.com/content/v1/66d913542137b834e7a8d9f7/4557631b-5c04-4ae2-9562-3a6e1a91935e/EMP+logo_inverse+cream.png"
+      ]
+    }
+  ]
+}
