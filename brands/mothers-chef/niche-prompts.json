@@ -8,21 +8,24 @@
     {
       "template_number": 1,
       "template_name": "pain-point-empathy-hook",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial. Photography style: golden-hour natural light, earthy ceramic bowls, marble countertops, wooden accents. Emotionally warm, empathy-first, village-like nurturing energy.\n\nEmotional empathy-hook static ad that stops every new mother scrolling at 2 AM. Background: soft, dimly lit scene of a tired new mother sitting alone in a kitchen at night, baby sleeping on her shoulder, an empty plate and cold leftovers on the counter, warm but melancholy golden light from a single lamp. Soft cream linen (#F9F7F2) text overlay at top in elegant serif: \"You're nourishing everyone except yourself.\". Below in warm rust (#B36A5E): \"You deserve meals that heal, not just fill.\". Bottom strip in sage green (#82937E): Mothers Chef logo + \"Postpartum Healing Meals · Delivered Every Sunday\" + motherschefsd.com. Deep emotional resonance. Not guilt — empathy. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial. Photography style: golden-hour natural light, earthy ceramic bowls, marble countertops, wooden accents. Emotionally warm, empathy-first, village-like nurturing energy.\n\nEmotional empathy-hook static ad that stops every new mother scrolling at 2 AM. Background: soft, dimly lit scene of a tired new mother sitting alone in a kitchen at night, baby sleeping on her shoulder, an empty plate and cold leftovers on the counter, warm but melancholy golden light from a single lamp. Soft cream linen (#F9F7F2) text overlay at top in elegant serif: \"You're nourishing everyone except yourself.\". Below in warm rust (#B36A5E): \"You deserve meals that heal, not just fill.\". Bottom strip in sage green (#82937E): Mothers Chef logo + \"Postpartum Healing Meals \u00b7 Delivered Every Sunday\" + motherschefsd.com. Deep emotional resonance. Not guilt \u2014 empathy. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
-      "needs_reference_images": false,
+      "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "You're nourishing everyone except yourself.",
         "subhead": "You deserve meals that heal, not just fill.",
         "cta": "motherschefsd.com"
       },
-      "notes": "N01 — Pain-point empathy hook. The #1 performing ad pattern in postpartum/new-mom niche. Targets the exhausted mother scrolling at 2AM."
+      "notes": "N01 \u2014 Pain-point empathy hook. The #1 performing ad pattern in postpartum/new-mom niche. Targets the exhausted mother scrolling at 2AM.",
+      "reference_urls": [
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
+      ]
     },
     {
       "template_number": 2,
       "template_name": "founder-doula-trust",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial. Photography style: golden-hour natural light.\n\nFounder trust-building static ad. Background: warm, naturally-lit kitchen scene with Brittany (Doula B) — a warm, confident Black woman in a clean apron and natural hair, holding a beautifully plated healing meal, smiling warmly at the camera. Bright California kitchen, fresh herbs and ceramic bowls on the counter behind her. Soft sage green (#82937E) overlay bar at top: \"Designed by a Doula. Cooked by a Chef.\" in cream serif text. Below the photo: cream linen (#F9F7F2) section with elegant serif quote: \"I started Mother's Chef because every mother deserves a village.\" — Brittany Griffin, Postpartum Doula & Founder. Bottom strip in warm rust (#B36A5E): Mothers Chef logo + motherschefsd.com. Warm, trustworthy, personal. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial. Photography style: golden-hour natural light.\n\nFounder trust-building static ad. Background: warm, naturally-lit kitchen scene with Brittany (Doula B) \u2014 a warm, confident Black woman in a clean apron and natural hair, holding a beautifully plated healing meal, smiling warmly at the camera. Bright California kitchen, fresh herbs and ceramic bowls on the counter behind her. Soft sage green (#82937E) overlay bar at top: \"Designed by a Doula. Cooked by a Chef.\" in cream serif text. Below the photo: cream linen (#F9F7F2) section with elegant serif quote: \"I started Mother's Chef because every mother deserves a village.\" \u2014 Brittany Griffin, Postpartum Doula & Founder. Bottom strip in warm rust (#B36A5E): Mothers Chef logo + motherschefsd.com. Warm, trustworthy, personal. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
       "needs_reference_images": true,
       "reference_asset_type": "owner",
@@ -31,157 +34,177 @@
         "subhead": "I started Mother's Chef because every mother deserves a village.",
         "cta": "motherschefsd.com"
       },
-      "notes": "N02 — Founder trust story. Brittany's doula background is the ultimate trust differentiator.",
+      "notes": "N02 \u2014 Founder trust story. Brittany's doula background is the ultimate trust differentiator.",
       "reference_urls": [
-        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/69797dc4d119a5858c712118.png"
+        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/69797dc4d119a5858c712118.png",
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
       ]
     },
     {
       "template_number": 3,
       "template_name": "healing-food-hero-shot",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial.\n\nAppetite-triggering healing food hero ad. Full-frame close-up of a steaming golden turmeric bone broth soup in a handmade sage-green ceramic bowl, swirled with coconut cream, topped with fresh herbs and a sprinkle of black sesame seeds. Steam rising in golden backlight. Beside it: a slice of warm seeded sourdough on a wooden board, a small bowl of sea salt, fresh ginger root, and a linen napkin. Warm marble countertop, soft natural light from a nearby window, lavender sprig at edge of frame. Minimal text — small elegant serif text at bottom on cream strip: \"Mineral-Dense · Hormone-Balancing · Made for Healing\" + Mothers Chef logo + motherschefsd.com. Let the food speak. Aspect ratio 1:1.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial.\n\nAppetite-triggering healing food hero ad. Full-frame close-up of a steaming golden turmeric bone broth soup in a handmade sage-green ceramic bowl, swirled with coconut cream, topped with fresh herbs and a sprinkle of black sesame seeds. Steam rising in golden backlight. Beside it: a slice of warm seeded sourdough on a wooden board, a small bowl of sea salt, fresh ginger root, and a linen napkin. Warm marble countertop, soft natural light from a nearby window, lavender sprig at edge of frame. Minimal text \u2014 small elegant serif text at bottom on cream strip: \"Mineral-Dense \u00b7 Hormone-Balancing \u00b7 Made for Healing\" + Mothers Chef logo + motherschefsd.com. Let the food speak. Aspect ratio 1:1.",
       "aspect_ratio": "1:1",
       "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
-        "headline": "Mineral-Dense · Hormone-Balancing · Made for Healing",
+        "headline": "Mineral-Dense \u00b7 Hormone-Balancing \u00b7 Made for Healing",
         "subhead": "",
         "cta": "motherschefsd.com"
       },
-      "notes": "N03 — Hero food shot. Turmeric soup is her hero product. Visual appetite appeal.",
+      "notes": "N03 \u2014 Hero food shot. Turmeric soup is her hero product. Visual appetite appeal.",
       "reference_urls": [
         "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ac67bd9bc4d0217cda9f.png",
-        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ad9bb9c85b6767b0ccb0.png"
+        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ad9bb9c85b6767b0ccb0.png",
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
       ]
     },
     {
       "template_number": 4,
       "template_name": "7-day-energy-guarantee",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial.\n\nBold guarantee-first static ad. Background: warm cream linen (#F9F7F2) with subtle watercolor sage green wash. Center: elegant circular badge/seal in sage green (#82937E) with cream text: \"7-DAY ENERGY GUARANTEE\" surrounded by a delicate laurel wreath. Below the seal in dark plum (#4A2E32) elegant serif: \"Feel a noticeable difference in your energy and calm within 7 days — or your next week is on us.\". Trust signals below in warm rust (#B36A5E): \"✓ Gluten-Free & Dairy-Free · ✓ Organic & Grass-Fed · ✓ Top 8 Allergen Friendly · ✓ Doula-Designed\". Bottom: Mothers Chef logo + \"The Village Starts Here\" + motherschefsd.com. Risk-reversal, trust-building. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography (Cormorant Garamond style), warm and editorial.\n\nBold guarantee-first static ad. Background: warm cream linen (#F9F7F2) with subtle watercolor sage green wash. Center: elegant circular badge/seal in sage green (#82937E) with cream text: \"7-DAY ENERGY GUARANTEE\" surrounded by a delicate laurel wreath. Below the seal in dark plum (#4A2E32) elegant serif: \"Feel a noticeable difference in your energy and calm within 7 days \u2014 or your next week is on us.\". Trust signals below in warm rust (#B36A5E): \"\u2713 Gluten-Free & Dairy-Free \u00b7 \u2713 Organic & Grass-Fed \u00b7 \u2713 Top 8 Allergen Friendly \u00b7 \u2713 Doula-Designed\". Bottom: Mothers Chef logo + \"The Village Starts Here\" + motherschefsd.com. Risk-reversal, trust-building. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
-      "needs_reference_images": false,
+      "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "7-Day Energy Guarantee",
-        "subhead": "Feel a noticeable difference in your energy and calm within 7 days — or your next week is on us.",
+        "subhead": "Feel a noticeable difference in your energy and calm within 7 days \u2014 or your next week is on us.",
         "cta": "The Village Starts Here"
       },
-      "notes": "N04 — Guarantee-first ad. Risk reversal is massive for premium-priced postpartum services."
+      "notes": "N04 \u2014 Guarantee-first ad. Risk reversal is massive for premium-priced postpartum services.",
+      "reference_urls": [
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
+      ]
     },
     {
       "template_number": 5,
       "template_name": "doorstep-delivery-moment",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nEmotional doorstep delivery moment ad. Background: warm, sun-dappled front porch scene. A smiling new mother in soft loungewear holding her baby, opening the front door to find a premium sage-green branded thermal delivery bag with the Mothers Chef logo, eco-friendly glass meal containers visible inside with handwritten label tags. Warm golden California morning light, potted plants, a welcoming home entrance. Genuine joy and relief on the mother's face. Top overlay text in cream serif on soft sage overlay: \"Your village just arrived.\". Bottom strip in warm rust (#B36A5E): \"Free Sunday Delivery · San Diego County\" + Mothers Chef logo + motherschefsd.com. Warm, aspirational, emotionally resonant. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nEmotional doorstep delivery moment ad. Background: warm, sun-dappled front porch scene. A smiling new mother in soft loungewear holding her baby, opening the front door to find a premium sage-green branded thermal delivery bag with the Mothers Chef logo, eco-friendly glass meal containers visible inside with handwritten label tags. Warm golden California morning light, potted plants, a welcoming home entrance. Genuine joy and relief on the mother's face. Top overlay text in cream serif on soft sage overlay: \"Your village just arrived.\". Bottom strip in warm rust (#B36A5E): \"Free Sunday Delivery \u00b7 San Diego County\" + Mothers Chef logo + motherschefsd.com. Warm, aspirational, emotionally resonant. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
       "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "Your village just arrived.",
-        "subhead": "Free Sunday Delivery · San Diego County",
+        "subhead": "Free Sunday Delivery \u00b7 San Diego County",
         "cta": "motherschefsd.com"
       },
-      "notes": "N05 — Doorstep delivery moment. The branded bag is a key visual asset.",
+      "notes": "N05 \u2014 Doorstep delivery moment. The branded bag is a key visual asset.",
       "reference_urls": [
         "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979b057b9c85b186bb12b2b.png",
-        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ae25b9c85bf7f3b0dc49.png"
+        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ae25b9c85bf7f3b0dc49.png",
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
       ]
     },
     {
       "template_number": 6,
       "template_name": "testimonial-transformation",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nPowerful testimonial static ad. Background: softly blurred warm domestic scene — a peaceful mother and baby on a couch, golden light. Cream linen (#F9F7F2) card overlay with subtle drop shadow, centered. Large gold five-star rating (★★★★★) at top in warm rust (#B36A5E). Bold elegant serif headline: \"With my second baby I chose to prioritize myself, my nutrition and my healing for my postpartum.\". Attribution: \"— Melinda O. · San Diego Mom · 4th Trimester Program\". Below: \"Every meal she prepared was made with clean organic, grass fed meats and so much intention.\" — Elizabeth W. Bottom: Mothers Chef logo + \"1000% would recommend\" in warm rust + motherschefsd.com. Trust-building, social proof. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nPowerful testimonial static ad. Background: softly blurred warm domestic scene \u2014 a peaceful mother and baby on a couch, golden light. Cream linen (#F9F7F2) card overlay with subtle drop shadow, centered. Large gold five-star rating (\u2605\u2605\u2605\u2605\u2605) at top in warm rust (#B36A5E). Bold elegant serif headline: \"With my second baby I chose to prioritize myself, my nutrition and my healing for my postpartum.\". Attribution: \"\u2014 Melinda O. \u00b7 San Diego Mom \u00b7 4th Trimester Program\". Below: \"Every meal she prepared was made with clean organic, grass fed meats and so much intention.\" \u2014 Elizabeth W. Bottom: Mothers Chef logo + \"1000% would recommend\" in warm rust + motherschefsd.com. Trust-building, social proof. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
-      "needs_reference_images": false,
+      "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "With my second baby I chose to prioritize myself, my nutrition and my healing.",
-        "subhead": "— Melinda O., San Diego Mom",
+        "subhead": "\u2014 Melinda O., San Diego Mom",
         "cta": "motherschefsd.com"
       },
-      "notes": "N06 — Testimonial card with real customer quotes. Verbatim from Google reviews."
+      "notes": "N06 \u2014 Testimonial card with real customer quotes. Verbatim from Google reviews.",
+      "reference_urls": [
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
+      ]
     },
     {
       "template_number": 7,
       "template_name": "fourth-trimester-package",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nPremium package showcase ad. Background: warm cream linen (#F9F7F2) with elegant layout. Top: sage green (#82937E) header bar with cream text: \"The Fourth Trimester Recovery Experience\". Below: beautiful flat-lay photo showing the complete package — a row of glass meal containers with colorful healing meals, a small jar of herbal tea blend, a handwritten welcome card, all arranged on a marble surface with lavender sprigs and linen. Price in large warm rust (#B36A5E) serif: \"$897 · 4 Weekly Deliveries · 40 Servings\". Payment plan callout: \"Or 4 payments of $250\". Bullet points in deep plum (#4A2E32): \"✓ 4 soups/stews + 2 organic meals + 2 snacks per week · ✓ Custom herbal tea blend · ✓ Direct access to Doula B · ✓ 7-Day Energy Guarantee\". Bottom: \"Limited to 15 mothers per week\" in warm rust + Mothers Chef logo + motherschefsd.com. Premium, organized, compelling. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nPremium package showcase ad. Background: warm cream linen (#F9F7F2) with elegant layout. Top: sage green (#82937E) header bar with cream text: \"The Fourth Trimester Recovery Experience\". Below: beautiful flat-lay photo showing the complete package \u2014 a row of glass meal containers with colorful healing meals, a small jar of herbal tea blend, a handwritten welcome card, all arranged on a marble surface with lavender sprigs and linen. Price in large warm rust (#B36A5E) serif: \"$897 \u00b7 4 Weekly Deliveries \u00b7 40 Servings\". Payment plan callout: \"Or 4 payments of $250\". Bullet points in deep plum (#4A2E32): \"\u2713 4 soups/stews + 2 organic meals + 2 snacks per week \u00b7 \u2713 Custom herbal tea blend \u00b7 \u2713 Direct access to Doula B \u00b7 \u2713 7-Day Energy Guarantee\". Bottom: \"Limited to 15 mothers per week\" in warm rust + Mothers Chef logo + motherschefsd.com. Premium, organized, compelling. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
       "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "The Fourth Trimester Recovery Experience",
-        "subhead": "$897 · 4 Weekly Deliveries · 40 Servings",
+        "subhead": "$897 \u00b7 4 Weekly Deliveries \u00b7 40 Servings",
         "cta": "Limited to 15 mothers per week"
       },
-      "notes": "N07 — Premium package showcase. The $897 package is the highest AOV product.",
+      "notes": "N07 \u2014 Premium package showcase. The $897 package is the highest AOV product.",
       "reference_urls": [
         "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ae25b9c85bf7f3b0dc49.png",
-        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ac67bd9bc4d0217cda9f.png"
+        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ac67bd9bc4d0217cda9f.png",
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
       ]
     },
     {
       "template_number": 8,
       "template_name": "us-vs-them-ingredients",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nClean ingredients comparison ad. Exact vertical 50/50 split on cream background. LEFT SIDE: heading \"Typical Meal Delivery\" in muted gray. Faded image of generic plastic takeout containers with standard meal prep food. Ingredient callouts in red/gray: \"✗ Seed Oils · ✗ Gluten · ✗ Dairy · ✗ Processed · ✗ Reheated Frozen\". RIGHT SIDE: heading \"Mothers Chef\" in sage green (#82937E). Vibrant image of beautiful glass containers with healing soups and organic meals, warm golden light. Ingredient callouts in warm rust (#B36A5E): \"✓ 100% Organic · ✓ Grass-Fed Meats · ✓ Gluten-Free & Dairy-Free · ✓ Top 8 Allergen Friendly · ✓ Fresh, Never Frozen\". Center divider with small Mothers Chef logo badge. Bottom: \"Not a meal service. A recovery protocol.\" + motherschefsd.com. Aspect ratio 1:1.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nClean ingredients comparison ad. Exact vertical 50/50 split on cream background. LEFT SIDE: heading \"Typical Meal Delivery\" in muted gray. Faded image of generic plastic takeout containers with standard meal prep food. Ingredient callouts in red/gray: \"\u2717 Seed Oils \u00b7 \u2717 Gluten \u00b7 \u2717 Dairy \u00b7 \u2717 Processed \u00b7 \u2717 Reheated Frozen\". RIGHT SIDE: heading \"Mothers Chef\" in sage green (#82937E). Vibrant image of beautiful glass containers with healing soups and organic meals, warm golden light. Ingredient callouts in warm rust (#B36A5E): \"\u2713 100% Organic \u00b7 \u2713 Grass-Fed Meats \u00b7 \u2713 Gluten-Free & Dairy-Free \u00b7 \u2713 Top 8 Allergen Friendly \u00b7 \u2713 Fresh, Never Frozen\". Center divider with small Mothers Chef logo badge. Bottom: \"Not a meal service. A recovery protocol.\" + motherschefsd.com. Aspect ratio 1:1.",
       "aspect_ratio": "1:1",
       "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "Not a meal service. A recovery protocol.",
-        "subhead": "100% Organic · Gluten-Free · Dairy-Free · Top 8 Allergen Friendly",
+        "subhead": "100% Organic \u00b7 Gluten-Free \u00b7 Dairy-Free \u00b7 Top 8 Allergen Friendly",
         "cta": "motherschefsd.com"
       },
-      "notes": "N08 — Us vs them clean ingredient comparison. Differentiates from generic meal prep.",
+      "notes": "N08 \u2014 Us vs them clean ingredient comparison. Differentiates from generic meal prep.",
       "reference_urls": [
         "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ae25b9c85bf7f3b0dc49.png",
-        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ac67bd9bc4d0217cda9f.png"
+        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ac67bd9bc4d0217cda9f.png",
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
       ]
     },
     {
       "template_number": 9,
       "template_name": "healing-journey-timeline",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nHealing timeline infographic ad. Background: clean cream linen (#F9F7F2). Top: elegant serif header \"Your Healing Journey\" in deep plum (#4A2E32) with sage green accent line. Four connected milestone cards flowing vertically with a thin sage green timeline line:\nWeek 1: \"Energy Returns\" — icon of sunrise, warm rust text: \"Mineral-dense broths begin replenishing what birth depleted\"\nWeek 2: \"Fog Lifts\" — icon of clarity/lightbulb, warm rust text: \"Omega-3s and iron-rich meals support brain recovery\"\nWeek 3: \"Strength Builds\" — icon of growing plant, warm rust text: \"Protein and nutrient-dense meals fuel physical healing\"\nWeek 4: \"You Feel Like You Again\" — icon of heart/mother, warm rust text: \"Your body is nourished, your energy is sustained\"\nBottom: Mothers Chef logo + \"Start Your Healing\" + motherschefsd.com. Educational, trust-building. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nHealing timeline infographic ad. Background: clean cream linen (#F9F7F2). Top: elegant serif header \"Your Healing Journey\" in deep plum (#4A2E32) with sage green accent line. Four connected milestone cards flowing vertically with a thin sage green timeline line:\nWeek 1: \"Energy Returns\" \u2014 icon of sunrise, warm rust text: \"Mineral-dense broths begin replenishing what birth depleted\"\nWeek 2: \"Fog Lifts\" \u2014 icon of clarity/lightbulb, warm rust text: \"Omega-3s and iron-rich meals support brain recovery\"\nWeek 3: \"Strength Builds\" \u2014 icon of growing plant, warm rust text: \"Protein and nutrient-dense meals fuel physical healing\"\nWeek 4: \"You Feel Like You Again\" \u2014 icon of heart/mother, warm rust text: \"Your body is nourished, your energy is sustained\"\nBottom: Mothers Chef logo + \"Start Your Healing\" + motherschefsd.com. Educational, trust-building. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
-      "needs_reference_images": false,
+      "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "Your Healing Journey",
         "subhead": "4 weeks from depleted to thriving",
         "cta": "Start Your Healing"
       },
-      "notes": "N09 — Healing journey timeline. Educates while selling the 4-week program."
+      "notes": "N09 \u2014 Healing journey timeline. Educates while selling the 4-week program.",
+      "reference_urls": [
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
+      ]
     },
     {
       "template_number": 10,
       "template_name": "baby-shower-gift-card",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nBaby shower gifting ad. Background: soft, celebratory baby shower scene — pastel balloons, eucalyptus garlands, white linens, warm natural light. Center: elegant card/gift certificate mockup with sage green (#82937E) border and cream background, reading \"The Gift of Healing\" in elegant serif. Inside the card: \"Give a new mother the gift she actually needs — 4 weeks of chef-crafted postpartum meals, delivered to her door.\" Price: \"Starting at $169/week or the full Fourth Trimester Experience for $897\". Small icons: meal containers, herbal tea, heart. Bottom: warm rust (#B36A5E) strip: \"The gift every new mom wishes she had.\" + Mothers Chef logo + motherschefsd.com. Gifting angle, aspirational. Aspect ratio 1:1.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nBaby shower gifting ad. Background: soft, celebratory baby shower scene \u2014 pastel balloons, eucalyptus garlands, white linens, warm natural light. Center: elegant card/gift certificate mockup with sage green (#82937E) border and cream background, reading \"The Gift of Healing\" in elegant serif. Inside the card: \"Give a new mother the gift she actually needs \u2014 4 weeks of chef-crafted postpartum meals, delivered to her door.\" Price: \"Starting at $169/week or the full Fourth Trimester Experience for $897\". Small icons: meal containers, herbal tea, heart. Bottom: warm rust (#B36A5E) strip: \"The gift every new mom wishes she had.\" + Mothers Chef logo + motherschefsd.com. Gifting angle, aspirational. Aspect ratio 1:1.",
       "aspect_ratio": "1:1",
-      "needs_reference_images": false,
+      "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "The Gift of Healing",
         "subhead": "Give a new mother the gift she actually needs.",
         "cta": "motherschefsd.com"
       },
-      "notes": "N10 — Baby shower gift angle. Targets friends/family of expecting mothers — different buyer persona."
+      "notes": "N10 \u2014 Baby shower gift angle. Targets friends/family of expecting mothers \u2014 different buyer persona.",
+      "reference_urls": [
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
+      ]
     },
     {
       "template_number": 11,
       "template_name": "village-community-proof",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nCommunity social proof ad. Background: cream linen (#F9F7F2) with soft sage green watercolor border. Top: \"Join the Village\" in elegant deep plum (#4A2E32) serif. Below: 3 stacked review excerpts in warm editorial card format, each with ★★★★★ stars in warm rust (#B36A5E):\n\"1000% would recommend — Brittany supported me with delicious healthy meals for 5 weeks\" — Hayley B.\n\"Every meal was made with clean organic, grass fed meats and so much intention around postpartum\" — Elizabeth W.\n\"I chose to prioritize myself, my nutrition and my healing\" — Melinda O.\nGoogle rating badge: \"5.0 ★ on Google\". Counter: \"100+ San Diego mothers served\". Bottom: sage green (#82937E) strip: Mothers Chef logo + \"Your village is one click away\" + motherschefsd.com. Community trust, social proof stacking. Aspect ratio 4:5.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nCommunity social proof ad. Background: cream linen (#F9F7F2) with soft sage green watercolor border. Top: \"Join the Village\" in elegant deep plum (#4A2E32) serif. Below: 3 stacked review excerpts in warm editorial card format, each with \u2605\u2605\u2605\u2605\u2605 stars in warm rust (#B36A5E):\n\"1000% would recommend \u2014 Brittany supported me with delicious healthy meals for 5 weeks\" \u2014 Hayley B.\n\"Every meal was made with clean organic, grass fed meats and so much intention around postpartum\" \u2014 Elizabeth W.\n\"I chose to prioritize myself, my nutrition and my healing\" \u2014 Melinda O.\nGoogle rating badge: \"5.0 \u2605 on Google\". Counter: \"100+ San Diego mothers served\". Bottom: sage green (#82937E) strip: Mothers Chef logo + \"Your village is one click away\" + motherschefsd.com. Community trust, social proof stacking. Aspect ratio 4:5.",
       "aspect_ratio": "4:5",
-      "needs_reference_images": false,
+      "needs_reference_images": true,
       "reference_asset_type": "finished_work",
       "copy": {
         "headline": "Join the Village",
-        "subhead": "5.0 ★ on Google · 100+ San Diego mothers served",
+        "subhead": "5.0 \u2605 on Google \u00b7 100+ San Diego mothers served",
         "cta": "Your village is one click away"
       },
-      "notes": "N11 — Village community proof. Stacks multiple real reviews for trust."
+      "notes": "N11 \u2014 Village community proof. Stacks multiple real reviews for trust.",
+      "reference_urls": [
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
+      ]
     },
     {
       "template_number": 12,
       "template_name": "glass-jar-lifestyle-spread",
-      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nPremium lifestyle product spread ad. Beautiful overhead flat-lay on warm marble countertop: four eco-friendly glass jars with bamboo lids containing colorful healing meals — golden turmeric soup, vibrant green mineral broth, a nourishing grain bowl with roasted vegetables, and overnight oats with berries and seeds. Each jar has a handwritten-style label (Soup, Lunch, Snack, Breakfast). Scattered around: fresh herbs, a linen napkin, lavender sprigs, a wooden spoon, and a small ceramic cup of herbal tea. Soft golden-hour light from window. A mother's hand gently reaching for one jar, baby blanket visible at edge of frame. Minimal text — small sage green (#82937E) banner at bottom: \"Mothers Chef · Postpartum Healing Meals · motherschefsd.com\". Let the beautiful packaging and food sell itself. Aspect ratio 1:1.",
+      "prompt": "Soft, nurturing postpartum wellness aesthetic. Sage green (#82937E) and warm rust (#B36A5E) brand palette on cream linen (#F9F7F2) backgrounds with deep plum (#4A2E32) accents. Elegant serif typography, warm and editorial.\n\nPremium lifestyle product spread ad. Beautiful overhead flat-lay on warm marble countertop: four eco-friendly glass jars with bamboo lids containing colorful healing meals \u2014 golden turmeric soup, vibrant green mineral broth, a nourishing grain bowl with roasted vegetables, and overnight oats with berries and seeds. Each jar has a handwritten-style label (Soup, Lunch, Snack, Breakfast). Scattered around: fresh herbs, a linen napkin, lavender sprigs, a wooden spoon, and a small ceramic cup of herbal tea. Soft golden-hour light from window. A mother's hand gently reaching for one jar, baby blanket visible at edge of frame. Minimal text \u2014 small sage green (#82937E) banner at bottom: \"Mothers Chef \u00b7 Postpartum Healing Meals \u00b7 motherschefsd.com\". Let the beautiful packaging and food sell itself. Aspect ratio 1:1.",
       "aspect_ratio": "1:1",
       "needs_reference_images": true,
       "reference_asset_type": "finished_work",
@@ -190,11 +213,12 @@
         "subhead": "Glass jars. Clean ingredients. Delivered with love.",
         "cta": "motherschefsd.com"
       },
-      "notes": "N12 — Glass jar lifestyle spread. The eco-friendly packaging is a visual differentiator.",
+      "notes": "N12 \u2014 Glass jar lifestyle spread. The eco-friendly packaging is a visual differentiator.",
       "reference_urls": [
         "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ae25b9c85bf7f3b0dc49.png",
         "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ac67bd9bc4d0217cda9f.png",
-        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ad9bb9c85b6767b0ccb0.png"
+        "https://assets.cdn.filesafe.space/BEnPe8xLfoR7de1MEZnp/media/6979ad9bb9c85b6767b0ccb0.png",
+        "https://raw.githubusercontent.com/manyerena-ui/Yerena-digital-ads/main/brands/mothers-chef/assets/logo/Untitled%20design%20(46).png"
       ]
     }
   ]
